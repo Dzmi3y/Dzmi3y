@@ -1,7 +1,7 @@
-<div align="center" style="color:#fcfcfc; background:#0D1117; border: 1px solid #3d444d;">
+<div align="center">
     <h1>Hi there!</h1>
     <div>
-        <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dzmi3y&theme=github_dark" />   
+        <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dzmi3y&theme=nord_dark" />   
     </div><br/>
     <div>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TS" alt="TS" width="40" height="40"/>
