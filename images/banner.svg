@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created using Krita: https://krita.org -->
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   width="540pt"
-   height="230.39999pt"
-   viewBox="0 0 540 230.4"
    version="1.1"
-   id="svg2"
+   x="0px"
+   y="0px"
+   viewBox="0 0 720 307.19998"
    xml:space="preserve"
+   id="svg275"
+   width="720"
+   height="307.19998"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:krita="http://krita.org/namespaces/svg/krita"><defs
-   id="defs2"><rect
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs275"><rect
      id="SVGID_1_-2"
      width="750"
      height="500"
      x="0"
      y="0" /></defs>
+
+
+
+
 <g
    id="BACKGROUND-0"
-   transform="matrix(0.72499206,0,0,0.45932436,-2.847829,0)">
+   transform="matrix(0.96665608,0,0,0.61243244,-3.79711,0)">
 	<rect
    style="fill:#4d4d4d"
    width="750"
@@ -28,31 +33,10 @@
    id="rect1-9"
    x="0"
    y="0" />
-</g><text
-   id="shape0-8"
-   krita:useRichText="true"
-   krita:textVersion="2"
-   fill="#ffffff"
-   stroke-opacity="0"
-   stroke="#000000"
-   stroke-width="0"
-   stroke-linecap="square"
-   stroke-linejoin="bevel"
-   font-family="'Ink Free'"
-   font-size="48.9544px"
-   font-size-adjust="0.2"
-   font-stretch="normal"
-   letter-spacing="0"
-   word-spacing="0"
-   x="115.98586"
-   y="60.163074"
-   transform="scale(0.9806779,1.0197028)"><tspan
-     x="115.98586"
-     id="tspan2-3"
-     style="stroke-width:0">HI THERE! 🖖</tspan></text>
+</g>
 <g
    id="OBJECTS-4"
-   transform="matrix(0.71032856,0,0,0.75074713,1.40211,-146.10187)">
+   transform="matrix(0.94710475,0,0,1.0009961,1.86948,-194.80248)">
 	<g
    id="g272-8">
 		<defs
@@ -1906,6 +1890,36 @@
 			</g>
 		</g>
 	</g>
-</g>
+<g
+   id="TEXTS"
+   transform="matrix(1.0558494,0,0,0.99900489,-88.35121,59.805551)">
+	<g
+   id="g275"
+   style="display:inline;fill:#f9f9f9">
+		<g
+   id="g273"
+   style="fill:#f9f9f9">
+			
+				<text
+   transform="translate(214.0488,235.0991)"
+   style="font-size:86.5342px;font-family:JustAnotherHand-Regular;fill:#f9f9f9"
+   id="text272">HI THERE!</text>
+			
+				<text
+   transform="translate(224.3169,154.4849)"
+   style="font-size:55.9661px;font-family:JustAnotherHand-Regular;fill:#f9f9f9"
+   id="text273" />
+		</g>
+		<g
+   id="g274"
+   style="fill:#f9f9f9">
+			
+				<text
+   transform="translate(285.7637,107.1865)"
+   style="font-size:47.9132px;font-family:JustAnotherHand-Regular;fill:#f9f9f9"
+   id="text274" />
+		</g>
+	</g>
+</g></g>
 
 </svg>
