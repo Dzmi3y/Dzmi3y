@@ -1,5 +1,5 @@
 <div align="center">
-     <img alt="Awesome GitHub Profile Readme" src="/images/banner_cat.svg"> </img>
+     <img alt="Awesome GitHub Profile Readme" src="/images/cats.svg"> </img>
     <div>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TS" alt="TS" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="Css" alt="Css" width="40" height="40"/>
