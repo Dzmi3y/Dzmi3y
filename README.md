@@ -14,11 +14,4 @@
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="Html" alt="Html" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JS" alt="JS" width="40" height="40"/>       
     </div><br/>
-    <div>
-        <a href="https://github.com/Dzmi3y">
-            <img src="https://badges.pufler.dev/visits/Dzmi3y/Dzmi3y?style=flat-square&color=black&logo=github"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Dzmi3y?tab=repositories">
-            <img src="https://badges.pufler.dev/repos/Dzmi3y?style=flat-square&color=black&logo=github">
-        </a>
-    </div><br/>
 </div>
