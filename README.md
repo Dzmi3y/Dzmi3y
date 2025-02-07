@@ -1,5 +1,5 @@
 <div align="center">
-     <img alt="Awesome GitHub Profile Readme" src="/images/banner.svg"> </img>
+     <img alt="Awesome GitHub Profile Readme" src="/images/banner_cat.svg"> </img>
     <div>
         <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dzmi3y&theme=nord_dark" />   
     </div><br/>
