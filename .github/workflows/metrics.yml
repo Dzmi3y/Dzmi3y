@@ -9,7 +9,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: exuanbo/actions-github-lang-chart@v2
+      - uses: stats-organization/github-readme-stats-action@v2
         with:
-          github_token: ${{ secrets.METRICS_TOKEN }}
-          hide_languages: html, css, scss
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: top-langs
+          path: github-metrics.svg
+          options: |
+            username: Dzmi3y
+            theme: nord_dark
+            hide: html,css,scss
+            langs_count: 8
