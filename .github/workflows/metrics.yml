@@ -14,4 +14,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: top-langs
           path: github-metrics.svg
-          options: username=Dzmi3y&theme=nord_dark&hide=html,css,scss&langs_count=8&layout=compact
+          options: username=Dzmi3y&theme=nord_dark&hide=html,css,scss&langs_count=8
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Top Languages Chart"
+          file_pattern: "github-metrics.svg"
