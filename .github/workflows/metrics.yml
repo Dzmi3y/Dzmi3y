@@ -11,11 +11,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: stats-organization/github-readme-stats-action@v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           card: top-langs
           path: github-metrics.svg
-          options: |
-            username: Dzmi3y
-            theme: nord_dark
-            hide: html,css,scss
-            langs_count: 8
+          options: username=Dzmi3y&theme=nord_dark&hide=html,css,scss&langs_count=8&layout=compact
