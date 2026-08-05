@@ -16,7 +16,7 @@
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="Css" alt="Css"  height="40"/>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" 
         title="Docker" alt="Docker" height="40"/>
-        <img alt="banner" src="/images/cat.svg" width="60"/> 
+        <img alt="banner" src="/images/cat.svg" width="50"/> 
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" title="csharp" alt="csharp"height="40"/>
         <!--<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" title="dotnet" alt="dotnet" height="40"/>-->
         <!--<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React" alt="React"  height="40"/>-->
