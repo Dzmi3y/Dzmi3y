@@ -8,18 +8,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: exuanbo/actions-github-lang-chart@v2
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Dzmi3y
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_ignored: html, css, scss
-          config_order: plugin_languages
-          extras_css: |
-            .chart { display: block !important; }
-            .bar { display: none !important; }
+          github_token: ${{ secrets.METRICS_TOKEN }}
+          hide_languages: html, css, scss
