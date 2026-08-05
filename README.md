@@ -18,7 +18,7 @@
         title="Docker" alt="Docker" height="40"/>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" title="csharp" alt="csharp"height="40"/>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" title="dotnet" alt="dotnet" height="40"/>
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React" alt="React"  height="40"/>
+        <!--<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React" alt="React"  height="40"/>-->
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="Html" alt="Html" height="40"/>
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JS" alt="JS"  height="40"/>       
     </div>
