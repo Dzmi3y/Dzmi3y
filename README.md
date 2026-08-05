@@ -7,6 +7,7 @@
      <!--<img alt="down" src="/images/footprints_updown.png"> -->
     <!-- <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dzmi3y&theme=nord_dark" />   -->
      <img src="https://github.com/Dzmi3y/Dzmi3y/blob/main/github-metrics.svg" />   
+     <img alt="banner" src="/images/cat.svg"/> 
      <!--<img alt="up" src="/images/footprints_up.png"> -->
      </div>
        <br/>
